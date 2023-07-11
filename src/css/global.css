@@ -9,13 +9,6 @@ html{
 }
 
 body{
-    /* display: grid;
-    grid-template-areas: "header header header"
-                         "home home home"
-                         "projects projects projects"
-                         "social social social"
-                         "footer footer footer"   ;
-    grid-template-columns: repeat(3, 1fr); */
     background-color: var(--cor-fundo-cinza-escuro);
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
