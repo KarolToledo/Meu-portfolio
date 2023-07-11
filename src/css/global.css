@@ -20,32 +20,6 @@ body{
     font-family: var(--fonte-primaria);
     font-size: var(--fonte-normal);
 }
-/* 
-.header{
-    grid-area: header;
-}
-
-.welcome{
-    grid-area: welcome;
-    background-color: green;
-}
-
-.projects{
-    grid-area: projects;
-    background-color: yellow;
-}
-
-/* Social */
-.social{
-    grid-area: social;
-    background-color: purple;
-}
-
-/* Footer */
-.footer{
-    grid-area: footer;
-    background-color: crimson;
-} */
 
 .container{
     max-width: 1140px;
