@@ -14,6 +14,14 @@ body{
     font-size: var(--fonte-normal);
 }
 
+.sessao-2 {
+    background-image: url(../imagens/computador.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
 .container{
     max-width: 1140px;
     margin: auto;
@@ -45,7 +53,7 @@ body{
 }
 
 .redes-sociais a:hover{
-    color: var(--cor-primaria);
+    color: var(--cor-secundaria);
 }
 
 .redes-sociais a i{
@@ -82,10 +90,10 @@ body{
     padding: 10px 20px;
     border-radius: 20px;
     transition: all 0.3s ease;
-    background-color: var(--cor-secundaria);
+    background-color: rgb(124, 101, 139);
 }
 
 .botao:hover{
     background-color: var(--cor-primaria);
-    color: var(--cor-branca);
+    color: var(--cor-extra);
 }

@@ -4,8 +4,9 @@
 }
 
 .sobre-mim .imagem-sobre-mim .img-box{
+    background-color: var(--cor-fundo-cinza-escuro);
     padding: 15px;
-    border-radius: 5px;
+    border-radius: 5px ;
     text-align: center;
 }
 
@@ -27,6 +28,9 @@
 .sobre-mim .informacoes-sobre-mim p{
     font-size: 1.8rem;
     margin-bottom: 25px;
+    background-color: #0c0e0f65;
+    border-radius: 30px;
+    padding: 10px;
 }
 
 @media(max-width: 980px){
