@@ -35,7 +35,7 @@
     transition: 0.2s;
     border-radius: 50px;
     letter-spacing: 1px;
-    user-select: none;/*não deixa cursor aparecendo no mobile*/
+    user-select: none;/*não deixa cursor aparecendo */
     color: var(--cor-secundaria);
 }
 
