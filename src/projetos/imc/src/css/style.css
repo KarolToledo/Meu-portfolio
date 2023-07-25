@@ -15,7 +15,7 @@ body{
     box-shadow: 3px 3px 15px 0 rgb(6, 144, 207);
     margin: 20px auto;
     max-width: 540px;
-    height: 50%; 
+    /* height: 50vh;  */
 }
 
 .calculo{
@@ -110,12 +110,28 @@ body{
 
 
 @media(max-width: 360px){
+    .container .calculo h1, .meu-imc h2{
+        font-size: 1.5rem;
+    }
+}
+
+@media(max-width: 1024px){
     .container .calculo .item-calculo{
         font-size: 1rem;
+        padding: 5px;
     }
 
     .container .calculo h1, .meu-imc h2{
-        font-size: 1.5rem;
+        font-size: 1.3rem;
+    }
+
+    .container .calculo .item-calculo input{
+        font-size: 1rem;
+    }
+
+    .button{
+        font-size: 1.3rem;
+        margin-top: 10px;
     }
 }
 
