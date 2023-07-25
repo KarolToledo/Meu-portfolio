@@ -6,3 +6,5 @@
 Para construção foi usado HTML, CSS e JavaScript.</p>
 
 <img src="src/imagens/card-imc.png">
+
+<a src="https://karoltoledo.github.io/Meu-portfolio/src/projetos/imc/index.html">Clique para ver no GitHub Pages</a>
