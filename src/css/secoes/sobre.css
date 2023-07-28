@@ -11,7 +11,9 @@
 .sobre-mim .informacoes-sobre-mim p{
     font-size: 1.8rem;
     margin-bottom: 25px;
-    background-color: #0c0e0f65;
+    background-color: #ffffff62;
+    color: #000;
+    font-weight: 400;
     border-radius: 30px;
     padding: 10px;
 }
